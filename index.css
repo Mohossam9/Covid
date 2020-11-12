@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(../images/skillscover.png);
+    background-image: url(skillscover.png);
     background-size: cover;
 }
 .clearfix{clear: both;}
